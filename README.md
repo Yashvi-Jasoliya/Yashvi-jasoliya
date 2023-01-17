@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm yashvi jasoliya</h1>
 <h3 align="center">|| A passionate Cyber security and Web developer from India ||</h3>
-<img align=”right” alt=”coding” width=”400” src=https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1_still_2x.gif?compress=1&resize=400x300>
+<img align=”left” alt=”coding” width=”300” src=https://cdn.dribbble.com/users/4055494/screenshots/15215756/lottie-000_1_1_still_2x.gif?compress=1&resize=300x300>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvi-jasoliya&label=Profile%20views&color=0e75b6&style=flat" alt="yashvi-jasoliya" /> </p>
 
