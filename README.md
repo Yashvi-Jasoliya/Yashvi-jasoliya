@@ -13,7 +13,7 @@
 
 
 ##  <h2 align="left">🌐 Socials: </h2>
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yasu__jasoliya22) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@yashvijasoliya") ![image](https://user-images.githubusercontent.com/113770855/214359282-52bd2421-cd4c-4e18-91af-209ed7194fe4.png)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yasu__jasoliya22) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@yashvijasoliya") 
 
 
 # <h2 align="left">Languages and Tools:</h2>
