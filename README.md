@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashvi-jasoliya&label=Profile%20views&color=0e75b6&style=flat" alt="yashvi-jasoliya" /> </p>
 
-- 🌱 I’m currently learning **Bachelor of Engineering.**
+- 🌱 I’m currently learning **Bachelor of Engineering.*
 
 - 💬 Ask me about ** || C, C++, MYSQL, HTML, CSS, Data structures || **
 
