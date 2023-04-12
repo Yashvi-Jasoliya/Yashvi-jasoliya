@@ -6,15 +6,18 @@
 </h1>
 
 <h3 align="center">|| A passionate Cyber security and Web developer from India ||</h3>
-<img align=”center” alt=”coding” width=”300” height="300" src="https://static.wixstatic.com/media/9be400_457e1609536042398548c52937e04b27~mv2.gif">
+ <img align=”center” alt=”coding” width=”300” height="300" src="https://static.wixstatic.com/media/9be400_457e1609536042398548c52937e04b27~mv2.gif">
 
 <p align="center"> <img height = "28" src="https://komarev.com/ghpvc/?username=yashvi-jasoliya&label=Profile%20views&color=0e75b6&style=flat" alt="yashvi-jasoliya" /> </p>
 
+<!-- <p align = "top" -->
 - 🌱 I’m currently learning **Bachelor of Engineering.**
 
 - 💬 Ask me about ** || C, C++, MYSQL, HTML, CSS, Data structures || **
 
 - 📫 How to reach me **yashvijasoliya42@gmail.com**
+<!--    </p> -->
+   
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
