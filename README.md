@@ -38,7 +38,7 @@
 # <h2 align="left">📊 GitHub Status:</h2>
 
 ![](https://github-readme-stats.vercel.app/api?username=yashvi-jasoliya&theme=bear&hide_border=false&include_all_commits=false&count_private=false) 
-        <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"><br/>
+<!--         <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"><br/> -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashvi-jasoliya&theme=bear&hide_border=false)  </br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvi-jasoliya&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -49,6 +49,9 @@
 ![](https://github-profile-trophy.vercel.app/?username=yashvi-jasoliya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
+</br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="1000" height="50">
 
 
 
