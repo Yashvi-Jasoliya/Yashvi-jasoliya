@@ -6,7 +6,8 @@
 </h1>
 
 <h3 align="center">|| A passionate Cyber security and Web developer from India ||</h3>
- <img align=”center” alt=”coding” width=”300” height="300" src="https://static.wixstatic.com/media/9be400_457e1609536042398548c52937e04b27~mv2.gif">
+<!--  <img align=”center” alt=”coding” width=”300” height="300" src="https://static.wixstatic.com/media/9be400_457e1609536042398548c52937e04b27~mv2.gif"> -->
+ <img align=”center” alt=”coding” width=”300” height="250" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif">
 
 <p align="center"> <img height = "28" src="https://komarev.com/ghpvc/?username=yashvi-jasoliya&label=Profile%20views&color=0e75b6&style=flat" alt="yashvi-jasoliya" /> </p>
 
@@ -36,9 +37,11 @@
 
 # <h2 align="left">📊 GitHub Status:</h2>
 
-![](https://github-readme-stats.vercel.app/api?username=yashvi-jasoliya&theme=bear&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashvi-jasoliya&theme=bear&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=yashvi-jasoliya&theme=bear&hide_border=false&include_all_commits=false&count_private=false) 
+        <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif"><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yashvi-jasoliya&theme=bear&hide_border=false)  </br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvi-jasoliya&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
