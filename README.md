@@ -65,8 +65,7 @@
 
 
 ![](https://github-readme-stats.vercel.app/api?username=yashvi-jasoliya&theme=bear&hide_border=false&include_all_commits=false&count_private=false)
-
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="500" align="right"></br>
+<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="450" align="right"></br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yashvi-jasoliya&theme=bear&hide_border=false)  </br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvi-jasoliya&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
