@@ -12,7 +12,7 @@
 </p>
 
 <p align="center"> <img height = "28" src="https://komarev.com/ghpvc/?username=yashvi-jasoliya&label=Profile%20views&color=0e75b6&style=flat" alt="yashvi-jasoliya" /> </p>
-<img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+<img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="35">
 
 <!-- <p align = "top" -->
 - 🌱 I’m currently learning **Bachelor of Engineering.**
