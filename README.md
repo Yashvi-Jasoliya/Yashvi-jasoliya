@@ -81,5 +81,6 @@
 
 <!-- <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="1000" height="50"> -->
 
- <!-- // # snake
-// ![snake gif](https://github.com/Yashvi-Jasoliya/Yashvi-Jasoliya/blob/output/github-contribution-grid-snake.gif) -->
+ # snake
+ ![snake gif](https://github.com/Yashvi-Jasoliya/Yashvi-Jasoliya/blob/output/github-contribution-grid-snake.gif)
+ 
