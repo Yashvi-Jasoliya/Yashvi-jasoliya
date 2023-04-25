@@ -63,12 +63,10 @@
 
 # <h2 align="left">📊 GitHub Status:</h2>
 
-
-![](https://github-readme-stats.vercel.app/api?username=yashvi-jasoliya&theme=bear&hide_border=false&include_all_commits=false&count_private=false)
-</br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yashvi-jasoliya&theme=bear&hide_border=false)  </br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvi-jasoliya&theme=bear&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="450" align="right">
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=yashvi-jasoliya&theme=omni&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yashvi-jasoliya&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvi-jasoliya&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="450" align="right">
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
