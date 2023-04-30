@@ -1,5 +1,5 @@
+<img src="https://user-images.githubusercontent.com/113770855/235347452-af2ac50f-bd98-4fd7-9ece-581fdb22b9c2.png" style="max-width: 100%;">
 
-https://github.com/yashvi-jasoliya/yashvi-jasoliya/raw/master/linkedin_banner.png
 <!-- <h1 align="center">Hi 👋, I'm yashvi jasoliya</h1> -->
 <h1 align="center">
   <a href="https://github.com/yashvijasoliya">
