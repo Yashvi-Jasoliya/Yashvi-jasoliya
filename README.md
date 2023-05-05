@@ -79,11 +79,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=yashvi-jasoliya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-</br>
-
-<!-- <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="1000" height="50"> -->
-
-
-<!--  # snake -->
- ![snake gif](https://github.com/Yashvi-Jasoliya/Yashvi-Jasoliya/blob/output/github-contribution-grid-snake.gif)
- 
+    
