@@ -27,6 +27,13 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
+<h3>What if you like my work? 😃</h3>
+<ul>
+  <li>You can Star ⭐ the repositories you like.</li>
+  <li>You can react ❤️ to my LinkedIn posts.</li>
+</ul>
+
+
 ##  <h2 align="left">🌐 Socials: </h2>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@yashvijasoliya")
@@ -79,4 +86,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=yashvi-jasoliya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
+
+
     
