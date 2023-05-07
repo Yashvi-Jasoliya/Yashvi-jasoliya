@@ -1,4 +1,8 @@
-<img src="https://user-images.githubusercontent.com/113770855/235347452-af2ac50f-bd98-4fd7-9ece-581fdb22b9c2.png" style="max-width: 100%;">
+
+
+<img src="https://user-images.githubusercontent.com/113770855/235347452-af2ac50f-bd98-4fd7-9ece-581fdb22b9c2.png" style="width: 200%;">
+
+ 
 <!-- <h1></h1> -->
 
 <!-- <h1 align="center">Hi 👋, I'm yashvi jasoliya</h1> -->
