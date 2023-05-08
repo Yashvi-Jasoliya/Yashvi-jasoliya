@@ -11,6 +11,15 @@
    < yashvi jasoliya /> </a>
 </h1>
 
+<p align="center">
+    <a href="https://github.com/Yashvi-jasoliya/Yashvi-jasoliya"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+<!--     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a> -->
+    <a href="https://github.com/Yashvi-jasoliya/Yashvi-jasoliya/graphs/contributors"><img src="https://img.shields.io/github/contributors/Yashvi-jasoliya/Yashvi-jasoliya?color=blue"></a>
+    <a href="https://github.com/Yashvi-jasoliya/Yashvi-jasoliya/stargazers"><img src="https://img.shields.io/github/stars/Yashvi-jasoliya/Yashvi-jasoliya.svg?logo=github"></a>
+    <a href="https://github.com/Yashvi-jasoliya/Yashvi-jasoliya/network/members"><img src="https://img.shields.io/github/forks/Yashvi-jasoliya/Yashvi-jasoliya.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Yashvi-jasoliya.Yashvi-jasoliya" alt="visitors"/>   
+</p>
+
 <h3 align="center">|| A passionate Cyber security and Web developer from India ||</h3>
 <!--  <img align=”center” alt=”coding” width=”300” height="300" src="https://static.wixstatic.com/media/9be400_457e1609536042398548c52937e04b27~mv2.gif"> -->
 <p align ="center">
@@ -18,6 +27,13 @@
 </p>
 
 <p align="center"> <img height = "28" src="https://komarev.com/ghpvc/?username=yashvi-jasoliya&label=Profile%20views&color=0e75b6&style=flat" alt="yashvi-jasoliya" /> </p>
+
+<p align="center"> 
+<img src="https://profile-counter.glitch.me/yashvi-jasoliya/count.svg">  
+</p>
+
+
+
 <img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="35">
 
 <!-- <p align = "top" -->
