@@ -41,9 +41,12 @@
 
 - 💬 Ask me about ** || C, C++, MYSQL, HTML, CSS, Data structures || **
 
-- 📫 How to reach me **yashvijasoliya42@gmail.com**
+- 📫 How to reach me **yashvijasoliya42@gmail.com**  
+
 <!--    </p> -->
-   
+
+<!--  <img src="https://camo.githubusercontent.com/a6af43479d42a1a2fb5c9b40ee7c8cb4166fe525162357d400ee99afe3eac2fa/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f676974687562706172726f742e676966"> -->
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -106,6 +109,5 @@
 ![](https://github-profile-trophy.vercel.app/?username=yashvi-jasoliya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🐦 Latest Tweet
-
 
     
