@@ -88,8 +88,13 @@
 ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white) <br> 
 ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white) 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
- [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/BEPb/BEPb) [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=for-the-badge&logo=Git&logoColor=white)](https://github.com/BEPb/BEPb) 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+[![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/BEPb/BEPb)
+[![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=for-the-badge&logo=Git&logoColor=white)](https://github.com/BEPb/BEPb) 
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+ <br>
+[![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=for-the-badge&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)
+[![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=for-the-badge&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)                 
+
 </div>
  
  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
