@@ -1,4 +1,4 @@
-<img src="/Yashvi-Jasoliya/Yashvi-Jasoliya/raw/main/github-metrics.svg" alt="Metrics" style="max-width: 100%;" width="100%">
+<!-- <img src="/Yashvi-Jasoliya/Yashvi-Jasoliya/raw/main/github-metrics.svg" alt="Metrics" style="max-width: 100%;" width="100%"> -->
 
 <img src="https://user-images.githubusercontent.com/113770855/235347452-af2ac50f-bd98-4fd7-9ece-581fdb22b9c2.png" style="max-width: 100%;">
 
