@@ -32,8 +32,6 @@
 <img src="https://profile-counter.glitch.me/yashvi-jasoliya/count.svg">  
 </p>
 
-
-
 <img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" height="35">
 
 <!-- <p align = "top" -->
@@ -90,8 +88,7 @@
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 [![Github Badge](https://img.shields.io/badge/-Github%20-2088FF?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/BEPb/BEPb)
 [![Github Actions Badge](https://img.shields.io/badge/-Git%20-2088FF?style=for-the-badge&logo=Git&logoColor=white)](https://github.com/BEPb/BEPb) 
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
- <br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/><br>
 [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=for-the-badge&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)
 [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=for-the-badge&logoColor=white)](https://github.com/search?q=user%3ABEPb&type=Repositories)                 
 
