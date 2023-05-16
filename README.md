@@ -53,7 +53,6 @@
   <li>You can react ❤️ to my LinkedIn posts and connect 🤞 with me..</li>
 </ul>
 
-
 ##  <h2 align="left">🌐 Socials: </h2>
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@yashvijasoliya")
@@ -109,6 +108,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashvi-jasoliya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ## 🐦 Latest Tweet
 
