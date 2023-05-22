@@ -16,7 +16,7 @@
     <a href="https://github.com/Yashvi-jasoliya/Yashvi-jasoliya/graphs/contributors"><img src="https://img.shields.io/github/contributors/Yashvi-jasoliya/Yashvi-jasoliya?color=blue"></a>
     <a href="https://github.com/Yashvi-jasoliya/Yashvi-jasoliya/stargazers"><img src="https://img.shields.io/github/stars/Yashvi-jasoliya/Yashvi-jasoliya.svg?logo=github"></a>
     <a href="https://github.com/Yashvi-jasoliya/Yashvi-jasoliya/network/members"><img src="https://img.shields.io/github/forks/Yashvi-jasoliya/Yashvi-jasoliya.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Yashvi-jasoliya.Yashvi-jasoliya" alt="visitors"/>   
+    
 </p>
 
 <h3 align="center">|| A passionate Cyber security and Web developer from India ||</h3>
