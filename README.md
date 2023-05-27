@@ -13,11 +13,11 @@
 <p align="center">
   
 <!--     <a href="https://github.com/Yashvi-jasoliya/Yashvi-jasoliya"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a> 
-    <a href="https://github.com/Yashvi-jasoliya/Yashvi-jasoliya/graphs/contributors"><img src="https://img.shields.io/github/contributors/Yashvi-jasoliya/Yashvi-jasoliya?color=blue"></a>
-    <a href="https://github.com/Yashvi-jasoliya/Yashvi-jasoliya/stargazers"><img src="https://img.shields.io/github/stars/Yashvi-jasoliya/Yashvi-jasoliya.svg?logo=github"></a>
-    <a href="https://github.com/Yashvi-jasoliya/Yashvi-jasoliya/network/members"><img src="https://img.shields.io/github/forks/Yashvi-jasoliya/Yashvi-jasoliya.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=Yashvi-jasoliya.Yashvi-jasoliya" alt="visitors"/>   -->
+<a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.10-FF1493.svg"></a> 
+<a href="https://github.com/Yashvi-jasoliya/Yashvi-jasoliya/graphs/contributors"><img src="https://img.shields.io/github/contributors/Yashvi-jasoliya/Yashvi-        jasoliya?color=blue"></a>
+<a href="https://github.com/Yashvi-jasoliya/Yashvi-jasoliya/stargazers"><img src="https://img.shields.io/github/stars/Yashvi-jasoliya/Yashvi-  jasoliya.svg?logo=github"></a>
+<a href="https://github.com/Yashvi-jasoliya/Yashvi-jasoliya/network/members"><img src="https://img.shields.io/github/forks/Yashvi-jasoliya/Yashvi-jasoliya.svg?color=blue&logo=github"></a>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=Yashvi-jasoliya.Yashvi-jasoliya" alt="visitors"/>   -->
      
 </p>
 
