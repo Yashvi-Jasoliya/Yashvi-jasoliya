@@ -6,7 +6,7 @@
 
 <!-- <h1 align="center">Hi 👋, I'm yashvi jasoliya</h1> -->
 <h1 align="center">
-  <a href="https://github.com/yashvijasoliya">
+  <a href="https://github.com/yashvijasoliya"> 
    < yashvi jasoliya /> </a>
 </h1>
 
