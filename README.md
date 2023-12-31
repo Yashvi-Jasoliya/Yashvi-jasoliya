@@ -7,7 +7,7 @@
 <!-- <h1 align="center">Hi 👋, I'm yashvi jasoliya</h1> -->
 <h1 align="center">
   <a href="https://github.com/yashvijasoliya"> 
-   < yashvi jasoliya /> </a>
+   < yashvi Jasoliya /> </a>
 </h1>
 
 <!-- <p align="center">
