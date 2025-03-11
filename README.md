@@ -38,7 +38,7 @@
 <!-- <p align = "top" -->
 - 🌱 I’m currently learning **Bachelor of Engineering.**
 
-- 💬 Ask me about ** || C, C++, MYSQL, HTML, CSS, Data structures || **
+- 💬 Ask me about ** || Web Development, React, NEXT, Node || **
 
 - 📫 How to reach me **yashvijasoliya42@gmail.com**  
 
