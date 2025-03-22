@@ -103,11 +103,11 @@
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=yashvi-jasoliya&theme=omni&hide_border=false)<br/> -->
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashvi-jasoliya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="yashvi-jasoliya" width="292px"/> </br>
 <!-- <img src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="150"> -->
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvi-jasoliya&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)--> <img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="450" align="right"> 
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashvi-jasoliya&theme=omni&hide_border=false&include_all_commits=true&count_private=true&layout=compact)--> <!--<img src="https://user-images.githubusercontent.com/74038190/212747107-5b654ba5-31c6-4366-b42b-51b822e9bc52.gif" width="450" align="right"> -->
 
- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="2220" /> 
+ <!--<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="2220" /> -->
 <!-- ![](./assets/profile-green-animate.svg) -->
-
+<br><br><br><br><br><br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=yashvi-jasoliya&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
